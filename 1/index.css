@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+
+
+.row{
+    background-color: blueviolet;
+    height: 125px;
+
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
